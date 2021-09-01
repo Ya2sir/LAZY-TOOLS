@@ -1,0 +1,4 @@
+urllib3
+requests
+pikepdf
+tqdm
